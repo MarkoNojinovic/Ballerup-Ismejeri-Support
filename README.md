@@ -64,7 +64,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 **8. Contact Us**
 If you have any questions about this Privacy Policy or how we handle your data, please contact us:
 E-mail: ballerupismejeri@xelence.dk
-Websted: [https://yourwebsite.com/support](https://markonojinovic.github.io/Ballerup-Ismejeri-Support/)
+Websted: https://markonojinovic.github.io/Ballerup-Ismejeri-Support/
 
 ## Dansk
 **Privatlivspolitik på Dansk
@@ -118,4 +118,4 @@ Vi kan opdatere denne privatlivspolitik fra tid til anden. Eventuelle ændringer
 
 Hvis du har spørgsmål til denne privatlivspolitik eller vores håndtering af dine data, kan du kontakte os:
 E-mail: ballerupismejeri@xelence.dk
-Websted: [https://yourwebsite.com/support](https://markonojinovic.github.io/Ballerup-Ismejeri-Support/)
+Websted: https://markonojinovic.github.io/Ballerup-Ismejeri-Support/
