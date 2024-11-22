@@ -20,7 +20,52 @@ A: Please reach out to our support team using the email above.
 ## About
 The Ballerup Ismejeri app helps you access our services easily and conveniently.
 Right now we have a free advent coupon available waiting for you, other features will soon be released.
- 
+
+## English
+**Privacy Policy for Ballerup Ismejeri**
+
+Effective Date: [20.11.2024]
+
+Ballerup Ismejeri is committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, and share your data when you use our app.
+
+**1. Information We Collect**
+When you use the Ballerup Ismejeri app, we may collect the following information:
+
+Account Information: When you register or log in, we collect your email address and username.
+Usage Data: We collect information about how you use the app, such as interactions with features like the calendar or catalog pages.
+Device Information: Basic information about your device, such as the operating system and app version, is collected to improve app performance.
+We do not collect sensitive personal data such as payment details, location data, or contacts.
+
+**2. How We Use Your Information**
+We use the information we collect for the following purposes:
+
+To provide and improve the app’s functionality, including generating and managing advent coupons.
+To ensure the security and integrity of the app.
+To communicate important updates about the app, such as new features or changes to this Privacy Policy.
+**3. Sharing Your Information**
+We do not share your personal information with third parties except:
+
+When required by law or to comply with legal obligations.
+To prevent fraud, security threats, or violations of our terms.
+**4. Data Storage and Security**
+We store your account information securely using industry-standard encryption and authentication methods. While we take all reasonable measures to protect your data, no method of electronic transmission or storage is 100% secure.
+
+**5. Children’s Privacy**
+The app is not intended for children under the age of 13. We do not knowingly collect personal data from children. If we discover that a child has provided us with personal information, we will delete it immediately.
+
+**6. Your Rights**
+You have the right to:
+
+Access your personal information and request corrections if needed.
+Delete your account and associated data through the app's profile section.
+**7. Updates to This Privacy Policy**
+We may update this Privacy Policy from time to time. Any changes will be posted within the app, and the "Effective Date" will be updated accordingly.
+
+**8. Contact Us**
+If you have any questions about this Privacy Policy or how we handle your data, please contact us:
+E-mail: ballerupismejeri@xelence.dk
+Websted: [https://yourwebsite.com/support](https://markonojinovic.github.io/Ballerup-Ismejeri-Support/)
+
 ## Dansk
 **Privatlivspolitik på Dansk
 Privatlivspolitik for Ballerup Ismejeri**
