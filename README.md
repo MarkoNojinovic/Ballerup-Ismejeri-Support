@@ -20,3 +20,4 @@ A: Please reach out to our support team using the email above.
 ## About
 The Ballerup Ismejeri app helps you access our services easily and conveniently.
 Right now we have a free advent coupon available waiting for you, other features will soon be released.
+ 
